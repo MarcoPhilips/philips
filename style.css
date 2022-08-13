@@ -1,0 +1,63 @@
+body {background-color: ;
+  background-color:rgba(101, 120, 142, 0.687);
+  font-family: 'Roboto Serif', serif;
+    }
+  
+  ul {
+      list-style: none ;
+    }
+  hi, h2, h3, .price{
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+  
+  }
+  header {
+    text-align: center;
+    }
+  
+  header,
+  section {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  head h1 span {
+   color: blue;
+   font-size:28px;
+   line-height: 33px;
+  }
+  header p {
+    font-size: 14px;
+    line-height: 16px;
+    color: rgb(0, 0, 4);
+  }
+  section {
+    margin-bottom:24px ;
+  }
+  section h2 {
+    background-color: rgb(133, 162, 242);
+    padding: 4px;
+    text-align: center;
+  
+    margin-bottom: 24px;
+    font-size: 18px;
+  }
+  ul li {
+    margin: 16px;
+    display: flex;
+  }
+  li .details {
+    max-width: 300px;
+  }
+  .details h3 {
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  
+  .details p {
+    color: rgb(40, 52, 52);
+    font-size: 14px;
+    line-height: 21px;
+  }
+  
